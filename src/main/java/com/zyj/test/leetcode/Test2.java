@@ -1,8 +1,5 @@
 package com.zyj.test;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -18,15 +15,15 @@ import java.util.Scanner;
  * 2. 如果传入的数是在-9到9的范围内，不需要进行操作，直接返回
  * 3. 传入的数在经过反转后可能会超过int的边界，所以在反转时需要使用long类型
  */
-public class Test {
+public class Test2 {
     public static void main(String[] args) {
-        Test test = new Test();
+        Test2 test2 = new Test2();
         while (true) {
             Scanner scanner = new Scanner(System.in);
             System.out.println("请输入一个数字");
             try {
                 int number = scanner.nextInt();
-                System.out.println(test.reverseInt(number));
+                System.out.println(test2.reverseInt(number));
                 break;
             } catch (Exception e) {
                 System.out.println("您输入的数字不正确，请检查后重新输入！");
