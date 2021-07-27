@@ -1,5 +1,8 @@
-package com.zyj.test;
+package com.zyj.test.leetcode;
 
+import java.lang.invoke.MethodHandle;
+import java.lang.invoke.MethodHandles;
+import java.lang.invoke.MethodType;
 import java.util.PriorityQueue;
 
 /**

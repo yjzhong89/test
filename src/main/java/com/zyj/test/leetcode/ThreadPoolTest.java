@@ -1,4 +1,4 @@
-package com.zyj.test;
+package com.zyj.test.leetcode;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;

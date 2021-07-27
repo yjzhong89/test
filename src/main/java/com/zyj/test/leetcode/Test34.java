@@ -1,6 +1,5 @@
-package com.zyj.test;
+package com.zyj.test.leetcode;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

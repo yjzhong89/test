@@ -1,4 +1,4 @@
-package com.zyj.test;
+package com.zyj.test.leetcode;
 
 /**
  * @author zhongyj
